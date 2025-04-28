@@ -5,8 +5,8 @@ authors:
   given-names: "Emil"
   orcid: "https://orcid.org/0000-0002-4259-1721"
   affiliation: "Institute for Physical Research"
+type: article
 title: "Quantum Informatics Course Notes"
-type: "article"
 keywords:
   - "Quantum Physics"
   - "Numerical Methods"
