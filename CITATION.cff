@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Dr. Emil A. Gazazyan"
-  given-names: "Emil A. Gazazyan"
+- family-names: "Gazazyan"
+  given-names: "Emil"
   orcid: "https://orcid.org/0000-0002-4259-1721"
+  affiliation: "Institute for Physical Research"
 title: "QuInfoCourseNotes"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
